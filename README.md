@@ -87,3 +87,8 @@ Found a bug or have an idea?
 
 * Open an Issue with clear reproduction steps
 * Submit a Pull Request with improvements
+
+---
+
+## Credits
+* Original Creator: **Bisse**
