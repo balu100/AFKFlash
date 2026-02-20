@@ -1,4 +1,4 @@
-## Interface: 30400
+## Interface: 110207, 120000, 120001
 ## Version: 1.0.0
 ## Title: AFK Flash
 ## Notes: Flashes client when AFK
@@ -9,4 +9,5 @@ util.lua
 dialogs.lua
 slash.lua
 handlers.lua
+
 main.lua
