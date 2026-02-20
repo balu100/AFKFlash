@@ -91,4 +91,4 @@ Found a bug or have an idea?
 ---
 
 ## Credits
-* Original Creator: **Bisse**
+* Original Creator: **dressmachine**
